@@ -1,0 +1,5 @@
+org/example/player/PlayerClient.class
+org/example/player/Player.class
+org/example/player/Main.class
+org/example/player/PlayerThread.class
+org/example/player/PlayerServer.class
